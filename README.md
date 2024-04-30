@@ -15,6 +15,7 @@ create a conda environment usiing below command, all the neccessary libraries wi
 4.if u wish to change any hyperparameters , it can be done in util/constants.py file
 
 5.to train the model --> python train.py
+Whole process of training may take upwards of 6 hrs.
 There is already one pre trained model so this step can be skipped and  model can be directly tested
 
 6.to test the model--> python test.py 
